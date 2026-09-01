@@ -180,13 +180,11 @@ cython_debug/
 *.jpg
 *.jpeg
 *.png
-*.gif
 *.bmp
 *.tiff
 *.tif
 *.webp
 *.svg
-*.ico
 *.raw
 *.cr2
 *.nef
